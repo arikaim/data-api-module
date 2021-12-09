@@ -1,0 +1,15 @@
+{
+    "title": "Data Api Client",
+    "name": "dataapi",
+    "type": "package",
+    "class": "DataApi",
+    "package-type": "module",
+    "description": "Data Api client.",
+    "version": "1.0.0",   
+    "repository": "https://github.com/arikaim/data-api-module.git",
+    "require": {
+        "composer": [  
+            "arikaim/api-client-module"         
+        ]
+    }
+}

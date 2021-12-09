@@ -1,0 +1,19 @@
+{
+    "name": "arikaim/data-api-module",
+    "description": "Arikam CMS data api module",
+    "keywords": ["Module", "Arikam CMS data api module"],
+    "type": "arikaim-module",
+    "license": "GPL-3.0-or-later",
+    "authors": [{
+        "name": "Konstantin Atanasov",
+        "email": "info@arikaim.com",
+        "homepage": "http://arikaim.com"
+    }],
+    "require": {     
+        "arikaim/installer": "*", 
+        "arikaim/api-client-module": "^1.0.0"      
+    },
+    "extra": {
+        "path": "dataapi"
+    }
+}
